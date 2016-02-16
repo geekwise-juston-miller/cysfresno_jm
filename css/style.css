@@ -53,12 +53,12 @@ li{
     width: 150px;
     height: 75px;
     margin: 10px;
-    padding-left: 2px;
-    font-size: 13px;
+    padding-left: 5px;
+    font-size: 15px;
 }
 
 p.small{
-    line-height: 0.7;
+    line-height: 0.5;
 }
 
 #left1
